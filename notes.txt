@@ -1,0 +1,18 @@
+Git and Github for Poets: 1.1 
+
+Notes
+-------
+- Git was created for version control and collaboration.
+
+Terms
+--------
+- repository - (def) A collection of files that is stored.
+- commit - (def) A snapshot of a change that has been made to a file.
+- commit hash - (def) A unique numerical identifier that is associated with each commit.
+
+Tutorial
+---------
+1) Go to Github and create a new Repo called "Rainbow Poem". Add a description, initialize a README, and make sure the repo is public.
+2) Create a new file in the repository called "poem.txt". Write the file and make an initiale commit.
+3) Make several edits and commits for the "poem.txt" file.
+4) View the file history. 
