@@ -6,9 +6,9 @@ Notes
 
 Terms
 --------
-- repository - (def) A collection of files that is stored.
-- commit - (def) A snapshot of a change that has been made to a file.
-- commit hash - (def) A unique numerical identifier that is associated with each commit.
+- repository: (def) A collection of files that is stored.
+- commit: (def) A snapshot of a change that has been made to a file.
+- commit hash: (def) A unique numerical identifier that is associated with each commit.
 
 Tutorial
 ---------
