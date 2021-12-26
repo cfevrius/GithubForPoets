@@ -16,3 +16,20 @@ Tutorial
 2) Create a new file in the repository called "poem.txt". Write the file and make an initiale commit.
 3) Make several edits and commits for the "poem.txt" file.
 4) View the file history. 
+
+1.2
+
+Notes
+-------
+- The linear series of commits in a repo is called a branch. The default branch that is created with every new repo is called 'main' (formerly called 'master').
+- Git allows users to create branches other than the default one for exploring multiple different sequences of edits in perallel. 
+- A merge is when changes from one branch are combined into another branch.
+- A pull request is a request to merge changes from a non-default branch (user generated) into the default branch ('main').
+
+Tutorial
+---------
+1) Create a new branch called 'unicorn'.
+2) Edit the 'poem.txt' file and commit to the unicorn branch.
+3) Switch back and forth between the 'main' branch and the 'unicorn' and compare the differences between the files.
+4) Go the the 'Insights' page and view the network graph. 
+5) Start a pull request for the 'unicorn' branch. Merge the branch. 
