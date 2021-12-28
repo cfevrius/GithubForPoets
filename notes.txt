@@ -33,3 +33,9 @@ Tutorial
 3) Switch back and forth between the 'main' branch and the 'unicorn' and compare the differences between the files.
 4) Go the the 'Insights' page and view the network graph. 
 5) Start a pull request for the 'unicorn' branch. Merge the branch. 
+6) Go to the network graph and note the difference.
+7) Create another branch 'ponies' and edit the poem.txt file. Commit these changes.
+8) Go back to master and edit the 'poem.txt' file again.
+9) View the network group.
+10) Open a pull request for the 'ponies' branch. Merge the pull request.
+11) View the network graph.
