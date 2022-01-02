@@ -25,6 +25,9 @@ Notes
 - Git allows users to create branches other than the default one for exploring multiple different sequences of edits in perallel. 
 - A merge is when changes from one branch are combined into another branch.
 - A pull request is a request to merge changes from a non-default branch (user generated) into the default branch ('main').
+- On the repo page there is a tab called "insights". On the left panel there is a tab that says 'Network'. This network graph will give a visual representation of the commit history and the branch history. 
+- On the repo main page there will be a button to "Compare & pull request" if there are changes from another branch to pull. 
+- This leads to the "pull request page" which says whether or not there are conflicts. 
 
 Tutorial
 ---------
@@ -39,3 +42,11 @@ Tutorial
 9) View the network group.
 10) Open a pull request for the 'ponies' branch. Merge the pull request.
 11) View the network graph.
+
+1.3
+
+Notes
+-------
+- Forking a repository creates a new instance of one repository into a different account. 
+- When one account wants to commit changes they have made from a forked repo and send those modifications to the original repo, they need to make a pull request.
+ 
