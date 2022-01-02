@@ -49,4 +49,12 @@ Notes
 -------
 - Forking a repository creates a new instance of one repository into a different account. 
 - When one account wants to commit changes they have made from a forked repo and send those modifications to the original repo, they need to make a pull request.
- 
+- They are requesting the owner of the original repo (who has the permission) to accept the changes they have made.
+- If you are looking at someone else's repository (i.e. the account of the owner of the repo). You can fork the repo by pressing the 'fork' button on the main repo page.
+
+Tutorial
+---------
+1) Log into a different GitHub accound and look up the repo ("GithubForPoets"). Fork this repo using 'fork' button on the main repo.
+2) Edit the 'poem.txt' file and make a commit to the master branch. 
+3) Create a new pull request for the original repo. 
+4) Log back into your original account and look at 'Pull Requests' on the main repo page. Write a comment and accept the pull request 'Merge pull request'. 
