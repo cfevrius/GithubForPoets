@@ -1,0 +1,60 @@
+Git and Github for Poets: 1.1 
+
+Notes
+-------
+- Git was created for version control and collaboration.
+
+Terms
+--------
+- repository: (def) A collection of files that is stored.
+- commit: (def) A snapshot of a change that has been made to a file.
+- commit hash: (def) A unique numerical identifier that is associated with each commit.
+
+Tutorial
+---------
+1) Go to Github and create a new Repo called "Rainbow Poem". Add a description, initialize a README, and make sure the repo is public.
+2) Create a new file in the repository called "poem.txt". Write the file and make an initiale commit.
+3) Make several edits and commits for the "poem.txt" file.
+4) View the file history. 
+
+1.2
+
+Notes
+-------
+- The linear series of commits in a repo is called a branch. The default branch that is created with every new repo is called 'main' (formerly called 'master').
+- Git allows users to create branches other than the default one for exploring multiple different sequences of edits in perallel. 
+- A merge is when changes from one branch are combined into another branch.
+- A pull request is a request to merge changes from a non-default branch (user generated) into the default branch ('main').
+- On the repo page there is a tab called "insights". On the left panel there is a tab that says 'Network'. This network graph will give a visual representation of the commit history and the branch history. 
+- On the repo main page there will be a button to "Compare & pull request" if there are changes from another branch to pull. 
+- This leads to the "pull request page" which says whether or not there are conflicts. 
+
+Tutorial
+---------
+1) Create a new branch called 'unicorn'.
+2) Edit the 'poem.txt' file and commit to the unicorn branch.
+3) Switch back and forth between the 'main' branch and the 'unicorn' and compare the differences between the files.
+4) Go the the 'Insights' page and view the network graph. 
+5) Start a pull request for the 'unicorn' branch. Merge the branch. 
+6) Go to the network graph and note the difference.
+7) Create another branch 'ponies' and edit the poem.txt file. Commit these changes.
+8) Go back to master and edit the 'poem.txt' file again.
+9) View the network group.
+10) Open a pull request for the 'ponies' branch. Merge the pull request.
+11) View the network graph.
+
+1.3
+
+Notes
+-------
+- Forking a repository creates a new instance of one repository into a different account. 
+- When one account wants to commit changes they have made from a forked repo and send those modifications to the original repo, they need to make a pull request.
+- They are requesting the owner of the original repo (who has the permission) to accept the changes they have made.
+- If you are looking at someone else's repository (i.e. the account of the owner of the repo). You can fork the repo by pressing the 'fork' button on the main repo page.
+
+Tutorial
+---------
+1) Log into a different GitHub accound and look up the repo ("GithubForPoets"). Fork this repo using 'fork' button on the main repo.
+2) Edit the 'poem.txt' file and make a commit to the master branch. 
+3) Create a new pull request for the original repo. 
+4) Log back into your original account and look at 'Pull Requests' on the main repo page. Write a comment and accept the pull request 'Merge pull request'. 
